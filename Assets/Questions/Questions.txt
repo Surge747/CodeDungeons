@@ -1,0 +1,100 @@
+QWhich one of the following is the correct way of calling a function?|A. function_name()|B. call function_name()|C. ret function_name()|D. function function_name()
+A
+QWhat will be the output of the following Python code?|x = ['ab', 'cd’]|for i in x:i.upper()|print(x)|a)[‘ab’‘cd’]  | b)[‘AB’,CD’]  | c)[None,None]  | d)none of the above
+B
+QMathematical operators can be done on strings?|A)TRUE or B)FALSE
+A
+QThe expression Int(x) implies that the variable x is converted to integer?|A)TRUE orB) FALSE
+A
+QWhich of the following is an invalid statement?|a)abc=1,000,000|b)a b  c=1000 2000 3000|c)a,b,c=1000,2000,3000|d)a_b_c=1,000,000
+B
+QWhat is the maximum possible length of an identifier?|a)32|b)63|c)79|d)none of the above
+D
+Qwhich statement is correct?|a)List is mutable && Tuple is immutable|b)List is immutable && Tuple is mutable|c)Both are immutable|d)Both are mutable
+A
+Qwrite the output of print(chr(ord('b')+1))|a)b|b)syntax error|c)c|d)b+1
+C
+QWhat will be the output of the following Python code snippet?|x = [i**+1 for i in range(3)]; print(x);|a)[0,1,2]|b)[1,2,5]|c)error,**+ is not a valid operator|d)error.';' is not allowed
+A
+QWhat is the output of print(k) in the following Python code snippet?|k = [print(i) for i in my_string if i not in "aeiou”]|	print(k)|a)all characters of my_string that arent vowels|b)a list of Nones|c)list of Trues|d)list of Falses
+B
+QIs python case sensitive while dealing with indentifiers?|A)TRUE or B)FALSE
+A
+QWhich of the following is floor division?|a)/|b)//|c)%|d)none of the above
+B
+QWhat is the answer to this expression 22%3?|a)7|b)1|c)0|d)5
+B
+QThe format function, when applied on a string returns :|a)list|b)bool|c)int|d)str
+D
+Qwrite the output of the following code|class test:| def __init__(self):|print "Hello World”|def __init__(self):|print "Bye World”|obj=test()|a)Hello World|b)Compilation error|c)Bye World|d)Ambiguity
+C
+QWrite the output of the following code|a = True|b = False|c = True|if not a or b:|print “a”|elif not a or not b and c:|print “b”|elif not a or b or not b and a:|print “c”|else:|print “d”|a)a|b)b|c)c|d)d
+B
+Qa = 8.6|b = 2|print a//b|a)4.3|b)4.0|c)4|d)compilation error
+B
+QWhich of the following print statements will print all the names in the list on a seperate line|names = ['Ramesh', 'Rajesh', 'Roger', 'Ivan', 'Nico’]|a)print(names.append(“ “))|b)print(“”.join(names))|c)print(names.join(“%s”,names))|d)print(names.concatenate(“”))
+B
+QWhat is the output of the following program?|from math import *|a = 2.13|b = 3.7777|c = -3.12|print(int(a), floor(b), ceil(c), fabs(c)) |a)2 3_4 3|b)2 3-3 3.12
+B
+Qwhat is the output for: |name="Hello World”|print(type(name))|a)Hello World|b)hello World|c)<class 'str'>|d)str
+C
+QSelect the command to Find and print Data types using the Type command. |name="Hello World”|a)type(name)|b)print(type(name))|c)print(name)|d)type()
+B
+QWhich of the following has more precedance?|a)+|b)/|c)-|d)()
+D
+Q19 % 2 in python is|a)17|b)2|c)0|d)none of the above
+D
+QSuppose list1 is [2, 33, 222, 14, 25], What is list1[-1] |a)Error|b)25|c)None|d)2
+B
+QWhich of the following date format should be used in place of ???|import time|str = '02/06/1987’|datetime_value = time.strptime(str, ???)|a)”%d/%m/%Y”|b)”%d/%M/%y”|c)”%D/%M/%Y”|d)”%d/%m/%y”
+A
+QWho developed the Python language?| A.Zim Den|B.Guido van Rossum|C)Niene Stom|D.Wick van Rossum
+B
+Qin which language is Python written?| A.	English| B.	PHP| C.	C++| D.	All of the above
+C
+QWhich one of the following is the correct extension of the Python file?|A.	.py|B.	.python|C.	.p|D.	None of these
+A
+QWhich character is used in Python to make a single line comment?|A.	/|B.	//| C.	#|D.	!
+C
+QWhat is the method inside the class in python language?| A.	Object|B.	Function|C.	Attribute|D.	Argument
+B
+QWhy does the name of local variables start with an underscore discouraged?| A.	To identify the variable|B.	It confuses the interpreter| C.	It indicates a private variable of a class| D.	None of these
+C
+QWhich of the following is not a keyword in Python language?| A.	val|B.	raise|C.	try
+A
+QWhich of the following statements is correct for variable names in Python language?| A.	All variable names must begin with an underscore.|B.	Unlimited length|C.	The variable name length is a maximum of 2.|D.	All of the above
+B
+QWhich of the following declarations is incorrect in python language?| A.	xyzp = 5,000,000|B.	x y z p = 5000 6000 7000 8000| C.	x,y,z,p = 5000, 6000, 7000, 8000|D.	x_y_z_p = 5,000,000
+B
+QWhich of the following words cannot be a variable in python language?|A.	_val| B.	val| C.	try|D.	_try_
+C
+QWhich of the following precedence order is correct in Python?| A.	Parentheses, Exponential, Multiplication, Division, Addition, Subtraction| B.	Multiplication, Division, Addition, Subtraction, Parentheses, Exponential|C.	Division, Multiplication, Addition, Subtraction, Parentheses, Exponential|D.	Exponential, Parentheses, Multiplication, Division, Addition, Subtraction
+A
+QWhich one of the following has the same precedence level?|A.	Division, Power, Multiplication, Addition and Subtraction|B.	Division and Multiplication| C.	Subtraction and Division| D.	Power and Division
+B
+QWhich of the following functions is a built-in function in python language?|A.	val()|B.	print()|C.	printitem()| D.	None of these
+B
+QStudy the following function:|round(4.576)|What will be the output of this function?|A.	4|B.	5|C.	576| D.	5
+D
+QThe output to execute string.ascii_letters can also be obtained from:?|A.	character|B.	ascii_lowercase_string.digits|C.	lowercase_string.upercase|D.	ascii_lowercase+string.ascii_upercase
+D
+QWhich of the following option is not a core data type in the python language?|A.	Dictionary|B.	Lists|C.	Class|D.	All of the above
+C
+QWhat happens when '2' == 2 is executed?|A.	False| B.	True|C.	ValueError occurs
+A
+QWhich of the following will result in an error?|str1="python”|A. print(str1[2])|B. str1[1]=“x”|C. print(str1[0:9])|D. Both (b) and (c)
+B
+QWhich of the following is False?|A. String is immutable.|B. capitalize() function in string is used to return a string by converting the whole given string into uppercase.|C. lower() function in string is used to return a string by converting the whole given string into lowercase.|D. None of these.
+B
+QWhich of the following will give "Simon" as output?|If str1="John,Simon,Aryan”|A. print(str1[-7:-12])|B. print(str1[-11:-7])|C. print(str1[-11:-6])|D. print(str1[-7:-11])
+C
+QWhat will the below Python code will return?|list1=[0,2,5,1]|str1=“7”|for i in list1:|str1=str1+i|print(str1)|A. 70251|B. 7|C. 15|D. Error
+D
+QWhich of the following will give "Simon" as output?|If str1="John,Simon,Aryan”|A. print(str1[-7:-12])|B. print(str1[-11:-7])|C. print(str1[-11:-6])|D. print(str1[-7:-11])
+C
+QWhich of the following is correct with respect to above Python code?|d={“a”:3,”b”:7}|A. a dictionary d is created.|B. a and b are the keys of dictionary d.|C. 3 and 7 are the values of dictionary d|D. All of the above.
+D
+QWhat will be the output of the following program on execution?|a=0|b=5|x=(a&b)|(a&a)|(a|b)|print(“x”)|A. 1|B. 5|C. 0|D. None of the above
+D
+QWhich of the following is not a relational opeartor in Python?|A. >=|B. <=|C. =|D. !=
+C
